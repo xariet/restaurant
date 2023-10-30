@@ -1,0 +1,49 @@
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+}
+.navbar-nav{
+    font-family: 'Roboto', sans-serif;
+}
+.home{
+    color: #F97B22;
+}
+.head{
+    font-family: 'Dancing Script', cursive;
+    font-size: 42px;
+}
+text-body-secondary{
+    font-family: 'Roboto', sans-serif;
+    font-size: small; 
+}
+body{
+    background-color: #FFDCB6;
+}
+.navbar{
+    background-color: white;
+}
+.card-header{
+    font-family: 'Dancing Script', cursive;
+    font-size: 42px;
+  font-weight: 900;
+}
+.call{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.first{
+    background-color: #A9907E;
+}
+.second{
+    background-color: #E3CCAE;
+}
+.phone{
+    color:#0079FF;
+    font-weight: 900;
+}
+.email{
+    color:  #321E1E;
+}
+.review{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
